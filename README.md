@@ -179,8 +179,8 @@ Streamlit Frontend
 
 ## Troubleshooting
 
-### Missing OPENAI_API_KEY
-Ensure the `.env` file exists and contains a valid `OPENAI_API_KEY` value. If it is missing, the backend will fail when attempting transcription or summarization.
+### Missing GROQ_API_KEY
+Ensure the .env file exists and contains a valid GROQ_API_KEY value. If it is missing, the backend will fail when attempting transcription or summarization.
 
 ### OpenAI API errors
 Check your API key, internet connection, and account quota. The backend returns a clear error message when the OpenAI SDK call fails.
