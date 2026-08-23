@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meeting Summarizer
 
 Meeting Summarizer is a full-stack Python application that lets a user upload a meeting recording, transcribe it with OpenAI Whisper, summarize the discussion with GPT-4o-mini, and persist the transcript and structured output in SQLite for later review. It is designed as a practical hiring-assessment project that demonstrates end-to-end AI processing in a simple but production-minded architecture.
@@ -201,3 +202,6 @@ Upload only `.mp3`, `.wav`, or `.m4a` files. The app explicitly rejects unsuppor
 ## Demo Notes
 
 This project is intended to be simple, reliable, and easy to demonstrate in a short hiring-assessment presentation. It focuses on the end-to-end workflow: upload audio, transcribe, summarize, save results, and review the history.
+=======
+# Meeting-Summarizer
+>>>>>>> 696dc46d5213af41887e9118bcb67eeafe8dd933
