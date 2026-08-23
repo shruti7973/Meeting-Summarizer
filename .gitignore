@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env.*
+*.db
+*.sqlite3
+temporary_uploads/
+temp/
+.streamlit/
